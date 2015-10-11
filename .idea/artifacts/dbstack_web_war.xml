@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dbstack-web:war">
+    <output-path>$PROJECT_DIR$/dbstack-web/target</output-path>
+    <root id="archive" name="dbstack-web.war">
+      <element id="artifact" artifact-name="dbstack-web:war exploded" />
+    </root>
+  </artifact>
+</component>

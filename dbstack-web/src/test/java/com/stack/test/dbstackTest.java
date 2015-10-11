@@ -44,9 +44,6 @@ public class dbstackTest {
             lists = buildResultSet(stmt);
             System.out.println(""+lists);
         }
-
-        System.out.println("测试结果："+dataSource);
-        System.out.println("hi junit");
     }
 
     private List<List> buildResultSet(Statement stmt) throws SQLException {

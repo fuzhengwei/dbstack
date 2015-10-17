@@ -1,5 +1,6 @@
 package com.stack.test;
 
+import com.stack.dbstack.service.DBTreeService;
 import org.apache.commons.dbcp.BasicDataSource;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -25,6 +26,10 @@ public class dbstackTest {
 
     @Autowired
     private BasicDataSource dataSource;
+
+    @Autowired
+    private DBTreeService dbTreeService;
+
 
     @Test
     public void test_getsource() throws Exception{

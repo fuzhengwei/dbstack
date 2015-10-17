@@ -23,7 +23,10 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="dbstack-common" />
+        <module name="dbstack-dao" />
+        <module name="dbstack-doa" />
         <module name="dbstack-domain" />
+        <module name="dbstack-service" />
         <module name="dbstack-web" />
       </profile>
     </annotationProcessing>

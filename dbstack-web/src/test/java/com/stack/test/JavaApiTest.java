@@ -16,6 +16,8 @@ import java.util.List;
  */
 public class JavaApiTest {
 
+
+
     @Test
     public void test(){
 
@@ -34,13 +36,11 @@ public class JavaApiTest {
         children_5.add(dbTree_5_1);
         children_5.add(dbTree_5_2);
 
-
         DBTree dbTree_4 = new DBTree();
         dbTree_4.setId("1111");
         dbTree_4.setText("dbstack");
         List<DBTree> children_4 = new ArrayList<DBTree>();
         children_4.add(dbTree_5);
-
 
         DBTree dbTree_3 = new DBTree();
         dbTree_3.setId("111");

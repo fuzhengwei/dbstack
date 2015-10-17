@@ -1,0 +1,25 @@
+[
+    {
+        "id": "1",
+        "text": "Connections",
+        "children": [
+            {
+                "id": "11",
+                "text": "localhost_mysql",
+                "state": "closed",
+                "children": [
+                    {
+                        "id": "111",
+                        "text": "Databases",
+                        "children": [
+                            {
+                                "id": "1111",
+                                "text": "dbstack"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

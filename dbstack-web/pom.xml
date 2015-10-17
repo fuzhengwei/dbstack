@@ -13,8 +13,6 @@
     <name>dbstack-web</name>
     <url>http://maven.apache.org</url>
 
-
-
     <properties>
         <!-- base setting -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -58,6 +56,19 @@
     </properties>
 
     <dependencies>
+
+        <dependency>
+            <groupId>dbstack</groupId>
+            <artifactId>dbstack-common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+        <dependency>
+            <groupId>dbstack</groupId>
+            <artifactId>dbstack-domain</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
         <!-- junit -->
         <dependency>
             <groupId>junit</groupId>

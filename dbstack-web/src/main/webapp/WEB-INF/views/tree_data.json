@@ -1,0 +1,50 @@
+[{
+    "id":1,
+    "text":"Connections",
+    "children":[{
+        "id":11,
+        "text":"localhost_mysql",
+        "state":"closed",
+        "children":[{
+            "id":111,
+            "text":"Databases",
+            "state":"open",
+            "children":[{
+                "id":1111,
+                "text":"dbstack",
+                "children":[{
+                    "id":11111,
+                    "text":"Table",
+                    "children":[{
+                         "id":111111,
+                         "text":"school"
+                    },{
+                        "id":111112,
+                        "text":"user"
+                    }]
+                },{
+                    "id":11112,
+                    "text":"Views"
+                },{
+                    "id":11113,
+                    "text":"Store Procedures"
+                },{
+                    "id":11114,
+                    "text":"User Functions"
+                },{
+                    "id":11115,
+                    "text":"Triggers"
+                }]
+            },{
+                "id":1112,
+                "text":"information_sechema"
+            },{
+                "id":1113,
+                "text":"mysql"
+            },{
+                "id":1114,
+                "text":"test"
+            }]
+        }]
+    }]
+}]

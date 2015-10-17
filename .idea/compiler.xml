@@ -22,6 +22,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="dbstack-common" />
+        <module name="dbstack-domain" />
         <module name="dbstack-web" />
       </profile>
     </annotationProcessing>

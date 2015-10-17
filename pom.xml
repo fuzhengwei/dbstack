@@ -13,7 +13,6 @@
         <module>dbstack-domain</module>
         <module>dbstack-common</module>
         <module>dbstack-service</module>
-        <module>dbstack-dao</module>
     </modules>
 
     <properties>

@@ -1,6 +1,5 @@
 package com.stack.test.dao;
 
-import com.stack.dbstack.dao.impl.DBTreeDaoImpl;
 import com.stack.dbstack.service.DBTreeService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -21,14 +20,10 @@ public class DBTreeDao {
 
 
     @Autowired
-    private DBTreeDaoImpl dbTreeDao;
-
-    @Autowired
     private DBTreeService dbTreeService;
 
     @Test
     public void test_queryDBTableTreeDao() {
-        System.out.println("测试结果：" + dbTreeDao);
     }
 
 }

@@ -1,46 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fb3b440-fcf6-4803-9284-b9a443a3cd47" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbstack-common/src/main/java/com/stack/dbstack/common/dao/BaseDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbstack-dao/src/main/java/com/stack/dbstack/dao/DBTreeDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbstack-web/src/test/java/com/stack/test/dao/DBTreeDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbstack-dao/src/main/java/com/stack/dbstack/dao/impl/DBTreeDaoImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbstack-service/src/main/java/com/stack/dbstack/service/DBTreeService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbstack-service/src/main/java/com/stack/dbstack/service/impl/DBTreeServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbstack-dao/dbstack-dao.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbstack-service/dbstack-service.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbstack-dao/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbstack-service/pom.xml" />
-      <change type="DELETED" beforePath="E:\IdeaWebProjects\dbstack\.idea\libraries\Maven__com_fasterxml_classmate_1_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\IdeaWebProjects\dbstack\.idea\libraries\Maven__commons_beanutils_commons_beanutils_1_8_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\IdeaWebProjects\dbstack\.idea\libraries\Maven__javax_validation_validation_api_1_1_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\IdeaWebProjects\dbstack\.idea\libraries\Maven__net_sf_ehcache_ehcache_core_2_5_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\IdeaWebProjects\dbstack\.idea\libraries\Maven__org_apache_shiro_shiro_core_1_2_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\IdeaWebProjects\dbstack\.idea\libraries\Maven__org_apache_shiro_shiro_ehcache_1_2_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\IdeaWebProjects\dbstack\.idea\libraries\Maven__org_apache_shiro_shiro_quartz_1_2_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\IdeaWebProjects\dbstack\.idea\libraries\Maven__org_apache_shiro_shiro_spring_1_2_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\IdeaWebProjects\dbstack\.idea\libraries\Maven__org_apache_shiro_shiro_web_1_2_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\IdeaWebProjects\dbstack\.idea\libraries\Maven__org_hibernate_hibernate_validator_5_1_1_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\IdeaWebProjects\dbstack\.idea\libraries\Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\IdeaWebProjects\dbstack\.idea\libraries\Maven__org_opensymphony_quartz_quartz_1_6_1.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dbstack-web/src/test/java/com/stack/test/JavaApiTest.java" afterPath="$PROJECT_DIR$/dbstack-web/src/test/java/com/stack/test/JavaApiTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dbstack-common/dbstack-common.iml" afterPath="$PROJECT_DIR$/dbstack-common/dbstack-common.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dbstack-domain/dbstack-domain.iml" afterPath="$PROJECT_DIR$/dbstack-domain/dbstack-domain.iml" />
+    <list default="true" id="1fb3b440-fcf6-4803-9284-b9a443a3cd47" name="Default" comment="==========&#10;2015年10月17日 PM&#10;==========&#10;付政委&#10;&#10;======================================">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dbstack_dbstack_dao_1_0_SNAPSHOT.xml" />
+      <change type="DELETED" beforePath="E:\IdeaWebProjects\dbstack\dbstack-dao\dbstack-dao.iml" afterPath="" />
+      <change type="DELETED" beforePath="E:\IdeaWebProjects\dbstack\dbstack-dao\pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\IdeaWebProjects\dbstack\dbstack-dao\src\main\java\com\stack\dbstack\dao\DBTreeDao.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\IdeaWebProjects\dbstack\dbstack-dao\src\main\java\com\stack\dbstack\dao\impl\DBTreeDaoImpl.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dbstack-web/src/test/java/com/stack/test/dao/DBTreeDao.java" afterPath="$PROJECT_DIR$/dbstack-web/src/test/java/com/stack/test/dao/DBTreeDao.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dbstack-web/dbstack-web.iml" afterPath="$PROJECT_DIR$/dbstack-web/dbstack-web.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dbstack.iml" afterPath="$PROJECT_DIR$/dbstack.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dbstack-web/src/test/java/com/stack/test/dbstackTest.java" afterPath="$PROJECT_DIR$/dbstack-web/src/test/java/com/stack/test/dbstackTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/dbstack_web_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/dbstack_web_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dbstack-common/pom.xml" afterPath="$PROJECT_DIR$/dbstack-common/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dbstack-web/pom.xml" afterPath="$PROJECT_DIR$/dbstack-web/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dbstack-web/src/main/resources/spring-mvc.xml" afterPath="$PROJECT_DIR$/dbstack-web/src/main/resources/spring-mvc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="E:\IdeaWebProjects\dbstack\dbstack-web\src\main\resources\spring\spring-config-datasource-mysql.xml" afterPath="$PROJECT_DIR$/dbstack-web/src/main/resources/spring/spring-config-mysq-datasourcel.xml" />
     </list>
     <ignored path="dbstack.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -86,31 +58,44 @@
     <file path="/important.properties" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1444564595976" ignored="false" />
     <file path="/dbstackTest.java" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445086820896" ignored="false" />
     <file path="/fragment.java" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1444564497961" ignored="false" />
-    <file path="/Dummy.txt" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445083871097" ignored="false" />
+    <file path="/Dummy.txt" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445088240943" ignored="false" />
     <file path="/tree_data.json" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445071395395" ignored="false" />
     <file path="/DBTree.java" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445071827811" ignored="false" />
     <file path="/JavaApiTest.java" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445080610668" ignored="false" />
-    <file path="/DBTreeDao.java" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445087564641" ignored="false" />
-    <file path="/DBTreeDaoImpl.java" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445087366118" ignored="false" />
+    <file path="/DBTreeDao.java" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445087956718" ignored="false" />
+    <file path="/DBTreeDaoImpl.java" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445087938010" ignored="false" />
     <file path="/BaseDao.java" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445083633143" ignored="false" />
-    <file path="$PROJECT_DIR$/dbstack-domain/src/main/java/com/stack/dbstack/domain/DBTree.java" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445087526233" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/uiDesigner.xml" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445087526233" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/vcs.xml" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445087526233" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/.name" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445087526233" ignored="false" />
+    <file path="$PROJECT_DIR$/dbstack-domain/src/main/java/com/stack/dbstack/domain/DBTree.java" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445088231387" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/uiDesigner.xml" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445088231387" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/vcs.xml" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445088231387" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/.name" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445088231387" ignored="false" />
     <file path="/spring-config-mysql-dao.xml" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445086365985" ignored="false" />
     <file path="$PROJECT_DIR$/dbstack-web/src/main/webapp/WEB-INF/views/tree_data1.json" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445084178671" ignored="false" />
     <file path="$PROJECT_DIR$/dbstack-web/src/main/resources/props/log4j.properties" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445087526233" ignored="false" />
     <file path="$PROJECT_DIR$/dbstack-web/src/main/webapp/WEB-INF/views/index.jsp" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445084178672" ignored="false" />
-    <file path="$PROJECT_DIR$/dbstack-web/src/main/webapp/WEB-INF/views/tree_data.json" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445087526233" ignored="false" />
+    <file path="$PROJECT_DIR$/dbstack-web/src/main/webapp/WEB-INF/views/tree_data.json" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445088231388" ignored="false" />
     <file path="$PROJECT_DIR$/dbstack-web/src/main/resources/props/important.properties" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445087526233" ignored="false" />
-    <file path="$PROJECT_DIR$/dbstack-web/src/main/webapp/WEB-INF/web.xml" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445087526234" ignored="false" />
-    <file path="$PROJECT_DIR$/dbstack-common/src/main/java/com/stack/dbstack/common/utils/GsonUtils.java" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445087526234" ignored="false" />
+    <file path="$PROJECT_DIR$/dbstack-web/src/main/webapp/WEB-INF/web.xml" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445088231392" ignored="false" />
+    <file path="$PROJECT_DIR$/dbstack-common/src/main/java/com/stack/dbstack/common/utils/GsonUtils.java" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445088231388" ignored="false" />
     <file path="/DBTreeServiceImpl.java" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445086696823" ignored="false" />
-    <file path="$PROJECT_DIR$/dbstack-web/src/main/java/com/stack/Test.java" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445087526233" ignored="false" />
+    <file path="$PROJECT_DIR$/dbstack-web/src/main/java/com/stack/Test.java" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445088231388" ignored="false" />
     <file path="$PROJECT_DIR$/dbstack-web/src/main/webapp/index.jsp" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445087526234" ignored="false" />
-    <file path="$PROJECT_DIR$/dbstack-web/src/main/resources/spring-config.xml" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445087526233" ignored="false" />
-    <file path="$PROJECT_DIR$/dbstack-domain/pom.xml" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445087526233" ignored="false" />
+    <file path="$PROJECT_DIR$/dbstack-web/src/main/resources/spring-config.xml" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445088231387" ignored="false" />
     <file path="/TestDao.java" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445087439592" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/encodings.xml" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445088231387" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/compiler.xml" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445088231387" ignored="false" />
+    <file path="$PROJECT_DIR$/dbstack-service/src/main/java/com/stack/dbstack/service/DBTreeService.java" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445088231387" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/misc.xml" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445088231387" ignored="false" />
+    <file path="$PROJECT_DIR$/dbstack-domain/dbstack-domain.iml" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445088231387" ignored="false" />
+    <file path="$PROJECT_DIR$/dbstack-domain/pom.xml" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445088231388" ignored="false" />
+    <file path="$PROJECT_DIR$/dbstack-web/src/main/resources/spring/spring-config-mysq-datasourcel.xml" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445088231388" ignored="false" />
+    <file path="$PROJECT_DIR$/dbstack-service/src/main/java/com/stack/dbstack/service/impl/DBTreeServiceImpl.java" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445088231388" ignored="false" />
+    <file path="$PROJECT_DIR$/dbstack-common/dbstack-common.iml" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445088231388" ignored="false" />
+    <file path="$PROJECT_DIR$/dbstack-web/src/main/resources/spring-mvc.xml" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445088231392" ignored="false" />
+    <file path="$PROJECT_DIR$/dbstack-common/src/main/java/com/stack/dbstack/common/dao/BaseDao.java" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445088231392" ignored="false" />
+    <file path="$PROJECT_DIR$/dbstack-common/pom.xml" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445088231392" ignored="false" />
+    <file path="$PROJECT_DIR$/dbstack-service/dbstack-service.iml" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445088231387" ignored="false" />
+    <file path="$PROJECT_DIR$/dbstack-service/pom.xml" changelist="1fb3b440-fcf6-4803-9284-b9a443a3cd47" time="1445088231388" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,68 +157,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DBTreeDao.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dbstack-web/src/test/java/com/stack/test/dao/DBTreeDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="702" selection-end="702" vertical-scroll-proportion="0.5574534">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dbstack-service.iml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dbstack-service/dbstack-service.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dbstack-service/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="444" selection-end="444" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="36" selection-start="645" selection-end="645" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DBTreeDao.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dbstack-dao/src/main/java/com/stack/dbstack/dao/DBTreeDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="26" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DBTreeDaoImpl.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dbstack-dao/src/main/java/com/stack/dbstack/dao/impl/DBTreeDaoImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dbstack-dao/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="4" selection-start="449" selection-end="552" vertical-scroll-proportion="0.0">
+            <state line="14" column="40" selection-start="608" selection-end="608" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -242,7 +169,7 @@
       <file leaf-file-name="dbstackTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dbstack-web/src/test/java/com/stack/test/dbstackTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="40" selection-start="777" selection-end="828" vertical-scroll-proportion="0.0">
+            <state line="26" column="4" selection-start="721" selection-end="771" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#933#939#0" expanded="true" />
@@ -253,11 +180,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dbstack-web/pom.xml">
+      <file leaf-file-name="DBTreeDao.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dbstack-web/src/test/java/com/stack/test/dao/DBTreeDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="43" selection-start="1310" selection-end="1310" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="2" column="0" selection-start="29" selection-end="29" vertical-scroll-proportion="0.083516486">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -280,7 +209,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/dbstack-common/pom.xml" />
         <option value="$PROJECT_DIR$/dbstack-web/src/main/resources/spring-mvc.xml" />
         <option value="$PROJECT_DIR$/dbstack-web/src/main/resources/spring-config.xml" />
         <option value="$PROJECT_DIR$/dbstack-web/src/main/resources/spring/spring-config-mysql-dao.xml" />
@@ -291,10 +219,11 @@
         <option value="$PROJECT_DIR$/dbstack-dao/src/main/java/com/stack/dbstack/dao/imp/DBTreeDaoImpl.java" />
         <option value="$PROJECT_DIR$/dbstack-service/pom.xml" />
         <option value="$PROJECT_DIR$/dbstack-doa/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/dbstack-dao/src/main/java/com/stack/dbstack/dao/impl/TestDao.java" />
-        <option value="$PROJECT_DIR$/dbstack-dao/src/main/java/com/stack/dbstack/dao/impl/DBTreeDaoImpl.java" />
         <option value="$PROJECT_DIR$/dbstack-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/dbstack-dao/src/main/java/com/stack/dbstack/dao/DBTreeDao.java" />
+        <option value="$PROJECT_DIR$/dbstack-dao/src/main/java/com/stack/dbstack/dao/impl/DBTreeDaoImpl.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/dbstack-web/src/test/java/com/stack/test/dao/DBTreeDao.java" />
       </list>
     </option>
@@ -523,84 +452,16 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dbstack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dbstack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dbstack-dao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dbstack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dbstack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dbstack-dao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dbstack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dbstack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dbstack-dao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dbstack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dbstack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dbstack-dao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -618,27 +479,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dbstack-dao" />
+              <option name="myItemId" value="dbstack-web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="impl" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1096,7 +941,11 @@
       <created>1445080828625</created>
       <updated>1445080828625</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="==========&#10;2015年10月17日 PM&#10;==========&#10;付政委&#10;&#10;======================================">
+      <created>1445087614810</created>
+      <updated>1445087614810</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1121,11 +970,11 @@
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2374462" sideWeight="0.67132866" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2374462" sideWeight="0.67412585" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867134" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31994262" sideWeight="0.67132866" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32587412" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31994262" sideWeight="0.67412585" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32587412" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1220,19 +1069,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dbstack-service/src/main/java/com/stack/dbstack/service/DBTreeService.java">
+    <entry file="file://$PROJECT_DIR$/dbstack-service/dbstack-service.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="30" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dbstack-service/src/main/java/com/stack/dbstack/service/impl/DBTreeServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/dbstack-service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="30" selection-start="317" selection-end="334" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="10" column="0" selection-start="444" selection-end="444" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbstack-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="43" selection-start="1310" selection-end="1310" vertical-scroll-proportion="0.81674206">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1250,9 +1104,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dbstack-service/src/main/java/com/stack/dbstack/service/impl/DBTreeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="30" selection-start="317" selection-end="334" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbstack-service/src/main/java/com/stack/dbstack/service/DBTreeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="30" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dbstack-web/src/test/java/com/stack/test/dbstackTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="40" selection-start="777" selection-end="828" vertical-scroll-proportion="0.0">
+        <state line="26" column="4" selection-start="721" selection-end="771" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#933#939#0" expanded="true" />
@@ -1262,60 +1132,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dbstack-service/dbstack-service.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dbstack-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="444" selection-end="444" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dbstack-dao/src/main/java/com/stack/dbstack/dao/impl/DBTreeDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dbstack-dao/src/main/java/com/stack/dbstack/dao/DBTreeDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="26" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dbstack-dao/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="4" selection-start="449" selection-end="552" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="36" selection-start="645" selection-end="645" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dbstack-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="43" selection-start="1310" selection-end="1310" vertical-scroll-proportion="0.0">
+        <state line="14" column="40" selection-start="608" selection-end="608" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dbstack-web/src/test/java/com/stack/test/dao/DBTreeDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="702" selection-end="702" vertical-scroll-proportion="0.5574534">
+        <state line="2" column="0" selection-start="29" selection-end="29" vertical-scroll-proportion="0.083516486">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
